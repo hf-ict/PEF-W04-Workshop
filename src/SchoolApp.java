@@ -5,8 +5,8 @@ public class SchoolApp {
 
         //Objekt erstellen
         //Datentyp (komplex) Variablenname = new Datentyp();
-        Student student1 = new Student("Igor", "Ramljak", 200);
-        Student student2 = new Student("Daniel", "N'Gunza", 100);
+        Student student1 = new Student("Hans", "Muster", 200);
+        Student student2 = new Student("Friedrich", "Meier", 100);
         Student student3 = new Student();
 
         student1.addLLP(80);
